@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpiFan", "RpiFan\RpiFan.csproj", "{F14C62EF-7DA2-4578-AC71-87D960061091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14C62EF-7DA2-4578-AC71-87D960061091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14C62EF-7DA2-4578-AC71-87D960061091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14C62EF-7DA2-4578-AC71-87D960061091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14C62EF-7DA2-4578-AC71-87D960061091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B9717B-149C-455E-B788-A740805AF6E9}
+	EndGlobalSection
+EndGlobal

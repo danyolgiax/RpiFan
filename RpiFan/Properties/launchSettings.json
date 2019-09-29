@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RpiFan": {
+      "commandName": "Project",
+      "commandLineArgs": "--gpio 18 --force hi"
+    }
+  }
+}
